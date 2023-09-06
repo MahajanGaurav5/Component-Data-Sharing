@@ -1,0 +1,12 @@
+h2{
+
+    color: red;
+    text-align: center;
+    /* color: dodgerblue; */
+   background-color:hsla(197, 63%, 45%, 0.321);
+   padding: 20px;
+   height: 25%; 
+   width: 40%;
+   margin-left: 320px;
+   border-radius: 10px;
+}

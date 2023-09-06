@@ -1,0 +1,29 @@
+.h1{
+
+    text-align: center;
+    justify-content: center;
+    background:linear-gradient(rgba(24, 41, 197, 0.475),rgb(224, 41, 120));
+    padding: 8px;
+    color: whitesmoke;
+    border-radius: 10px 30px;
+
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    color:red;
+    padding: 10px;
+    
+
+}
+
+.p1{
+
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+    color: aqua;
+    text-shadow: currentColor;
+    border-radius: 10px;
+}
